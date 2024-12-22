@@ -22,7 +22,7 @@ class Plane:
   def move(self):
     print("Fly!")
 
-car1 = Car("Porch", "mpdel")     
+car1 = Car("Porsche", "mpdel")     
 boat1 = Boat("Ibiza", "Touring 20") 
 plane1 = Plane("Boeing", "747")    
 
